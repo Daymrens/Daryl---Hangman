@@ -118,23 +118,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="h6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="HANG-MAN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HANG-MAN.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="h4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="h7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="h5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="h8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="h3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="heartpng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\heartpng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="h1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\h1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,10 +130,22 @@
   <data name="h2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\h2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="HANG-MAN" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HANG-MAN.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="h3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="heartpng" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\heartpng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="h4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="h5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="h6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="h7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="h8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

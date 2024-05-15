@@ -445,7 +445,7 @@ namespace Daryl___Hangman
                     button.Visible = false;
                 }
 
-            }
+            } 
 
         }
         private void UpdateHangmanPictureBox()

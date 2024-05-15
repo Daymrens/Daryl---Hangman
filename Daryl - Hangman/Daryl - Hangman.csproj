@@ -90,6 +90,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\HANG-MAN.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HANG-MAN.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heartpng.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\h1.png" />
   </ItemGroup>
   <ItemGroup>
@@ -112,15 +121,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\h8.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\HANG-MAN.mp4" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\HANG-MAN.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\heartpng.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
